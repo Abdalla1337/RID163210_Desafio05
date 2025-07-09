@@ -72,13 +72,6 @@ Este projeto foi realizado como **Desafio 5** da Escola DNC e tem como objetivo 
 
    O frontend estará disponível em `http://localhost:5173`.
 
-> Após o deploy, atualize o `.env` do frontend com:
->
-> ```env
-> VITE_API_BASE_URL=https://seulink.onrender.com
-> ```
-
----
 
 ## ✅ Funcionalidades
 
